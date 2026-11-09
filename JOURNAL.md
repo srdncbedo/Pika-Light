@@ -30,6 +30,10 @@ Printing
 My printer may not be suitable for multi-colour printing, so I will probably print separate pieces for the different coloured parts.
 I hope the design doesn't take too much time and effort.
 Open Questions
+
+As expected I couldnt complete the design. But I will do it this week. Also the forge seems to be extended. I mean if it was already until January 1 ı didnt know that thats why this is good tho. Btw this freak is what ı did today:
+<img width="1712" height="697" alt="image" src="https://github.com/user-attachments/assets/01473f8b-e5ab-42d0-8f48-020f6ee87c12" />
+
 Voltage regulator: is it needed, and which one?
 Next Steps
 Continue and finish the CAD (base, skeleton, figure parts).
