@@ -34,7 +34,15 @@ Open Questions
 As expected I couldnt complete the design. But I will do it this week. Also the forge seems to be extended. I mean if it was already until January 1 ı didnt know that thats why this is good tho. Btw this freak is what ı did today:
 <img width="1712" height="697" alt="image" src="https://github.com/user-attachments/assets/01473f8b-e5ab-42d0-8f48-020f6ee87c12" />
 
+
+
 Voltage regulator: is it needed, and which one?
 Next Steps
 Continue and finish the CAD (base, skeleton, figure parts).
+
+# Day 2
+So today ı just created the ardıino nano place. It looks fine so far I just added spce underneath the card for pins and I feel like it will just fit easily. Also I added a tolerance of 0.2mm for an easier fit. Finally it looks like this:
+<img width="813" height="578" alt="image" src="https://github.com/user-attachments/assets/8bade011-14e7-4b75-b3ca-31a7be42b5a2" />
+
+
 Decide on the power/regulator solution.
