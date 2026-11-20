@@ -46,3 +46,11 @@ So today ı just created the ardıino nano place. It looks fine so far I just ad
 
 
 Decide on the power/regulator solution.
+
+# Day 3
+
+Today I again worked on the design, chose the pikachu model I am gonna be using and just decided what components exactly to buy. I am gonna probably buy them tomorrow or sth. I just need to check how much money I have on my bank account. Just designed those holes added the usb c input pcb and worked a little bit on the pikachu dasign. But havent done the mate connections on assembly document unfortunately. I will do them aas well tomorrow. 
+So these are how both of the models look like currently:
+<img width="884" height="608" alt="image" src="https://github.com/user-attachments/assets/d0e06056-a7e0-4c26-9aa0-09a238bb075f" />
+<img width="933" height="721" alt="image" src="https://github.com/user-attachments/assets/19f06e69-d189-4c4b-af09-fe46084adc5b" />
+
