@@ -54,3 +54,11 @@ So these are how both of the models look like currently:
 <img width="884" height="608" alt="image" src="https://github.com/user-attachments/assets/d0e06056-a7e0-4c26-9aa0-09a238bb075f" />
 <img width="933" height="721" alt="image" src="https://github.com/user-attachments/assets/19f06e69-d189-4c4b-af09-fe46084adc5b" />
 
+# Day 4
+Alright, so today I guess I finished desgning it. Everything looks fine so far I will just print them as well today and probably do the soldering and stuff at school. So let me just try to summarize what we have now and how did the design process today went.
+First of all I hollowed the pikachu figure out which made me so much happy. Because the last problem I had yesterday was it. So this is how it looks like now:
+<img width="1027" height="567" alt="image" src="https://github.com/user-attachments/assets/956fe433-69b7-4355-a009-dcd7892e3083" />
+After hollowing the pikachu out I just made the inner skeleton which will hold the leds in place. However the skeleton doesnt go tob the piikachus tail because it would make the assembly process much harder that way. And this is how it looks right now. I hopw that it doesnt break easily. 
+<img width="556" height="821" alt="image" src="https://github.com/user-attachments/assets/cdc1c742-2471-4ef8-ad32-7fc35bc54b13" />
+
+Btw I added the holes for the assembly of the lid and the pikachu as you can see from the picture. I will just use M3 bolts and nuts probably.
