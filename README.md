@@ -13,6 +13,11 @@ A 3D printed pikachu figure night light with LED lighting that makes it glow.
 - The power is supplied by a jack barrel adapter.
 
 ## Wiring
+The wirings are prepared using KiCAD. The main components included are;
+- MOSFET Transistor
+- IR Receiver
+- DC Barrel Jack Input
+- Arduino Nano
 
 <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/042ff659-f5af-4eb6-88b0-06fc41aa22b5" />
 
