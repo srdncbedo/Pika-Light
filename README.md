@@ -4,6 +4,7 @@ A 3D printed pikachu figure night light with LED lighting that makes it glow.
 <img width="1054" height="587" alt="image" src="https://github.com/user-attachments/assets/63d4502c-5dff-4966-9ceb-c21c718ab597" />
 
 ## Key Features
+
 - Provides an enoughly good yellow light for nightly use and decorational means.
 - Light intensity can be controlled and different lighting patterns can be obtained with the IR remote control.
 - The enclosure box keeps all the electronics. (eg. Arduino Nano, cables, barrel jack input)
@@ -13,6 +14,7 @@ A 3D printed pikachu figure night light with LED lighting that makes it glow.
 - The power is supplied by a jack barrel adapter.
 
 ## Wiring
+
 The wirings are prepared using KiCAD. The main components included are;
 - MOSFET Transistor
 - IR Receiver
@@ -21,6 +23,9 @@ The wirings are prepared using KiCAD. The main components included are;
 
 <img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/042ff659-f5af-4eb6-88b0-06fc41aa22b5" />
 
+## CAD
+
+The 3D design process is done using OnShape while the renders are done using Fusion 360.
 
 ## Credits
 - KiCAD
