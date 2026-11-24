@@ -14,6 +14,7 @@ A 3D printed pikachu figure night light with LED lighting that makes it glow.
 
 ## Wiring
 
+<img width="1275" height="652" alt="image" src="https://github.com/user-attachments/assets/042ff659-f5af-4eb6-88b0-06fc41aa22b5" />
 
 
 ## Credits
